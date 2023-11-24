@@ -4,7 +4,7 @@
 
 ## 📄Sobre
 
-### Nesse projeto criamos uma página para um restaurante fictício, o _Le Restaurant_, onde buscamos demonstrar um site funcional de um restaurante, com uma introdução sobre o restaurante, seu menu completo, formas de contato, endereço e um pouco de sua história.
+### Nesse projeto foi criado uma página para um restaurante fictício, o _Le Restaurant_, onde o intuito foi demonstrar um site funcional de um restaurante, com uma introdução sobre o restaurante, seu menu completo, formas de contato, endereço e um pouco de sua história.
 
 ---
 
@@ -29,6 +29,4 @@ $ git clone https://github.com/CamilaBraga13/ProjetoFInalTraineebyron2022.git
 
 ---
 
-## ![byron](/img/byron.png)
-
-🚀 **Desenvolvido por Camila Braga e por Matheus Franco**
+🚀 **Desenvolvido por Camila Braga**
