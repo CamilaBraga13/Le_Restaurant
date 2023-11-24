@@ -22,7 +22,7 @@
 #### Para clonar o repositório pelo terminal, utilize a seguinte linha de comando :
 
 ```
-$ git clone https://github.com/CamilaBraga13/ProjetoFInalTraineebyron2022.git
+$ git clone https://github.com/CamilaBraga13/Le_Restaurant.git
 ```
 
 #### Para baixar todos os arquivos pelo _Github_, utilize o botao **_code_**, na barra de opções do github e faça download do arquivo _.zip_.
